@@ -1,0 +1,6 @@
+{
+  "name": "Resume Parser Pro",
+  "description": "Production-Grade AI Resume Parser and ATS Screening Application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
